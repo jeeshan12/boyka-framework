@@ -11,7 +11,7 @@ jobs:
     name: Create pull request from develop to staging
     steps:
       - name: Check out Git repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Detect changes between develop and staging
         id: branch-changes
