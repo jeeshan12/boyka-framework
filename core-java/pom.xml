@@ -38,7 +38,7 @@
         <google-truth.version>1.1.3</google-truth.version>
         <apache-commons-text.version>1.9</apache-commons-text.version>
         <json-path.version>2.7.0</json-path.version>
-        <log4j-core.version>2.18.0</log4j-core.version>
+        <log4j-core.version>2.21.1</log4j-core.version>
         <log4j-api.version>2.18.0</log4j-api.version>
         <jackson-dataformat-yaml.version>2.13.4</jackson-dataformat-yaml.version>
         <jackson-databind.version>2.13.4</jackson-databind.version>
